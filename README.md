@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Nagarjun T.K<br>A passionate developer from India 🇮🇳<br><br>🌱I’m currently learning Python<br>Student at Sir M Visvesvaraya Institute Of Technology<br>💬 Ask me about Programming, html, Figma, Net beans<br>📫 Reach out to me at nagarjun17204@gmail.com
+Hi 👋, I'm Nagarjun T.K<br>A passionate developer from India 🇮🇳<br><br>🌱I’m currently learning Python<br>Student at Sir M Visvesvaraya Institute Of Technology<br>💬 Ask me about Programming, html, Figma<br>📫 Reach out to me at nagarjun17204@gmail.com
 
 
 ## 🌐 Socials:
